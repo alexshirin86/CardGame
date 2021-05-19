@@ -25,12 +25,12 @@ namespace CardGame
             PlayerPoints = 0;
         }
 
-        private void AddCard()
+        public void AddCard()
         {
 
         }
 
-        private void RemoveCard()
+        public void RemoveCard()
         {
 
         }

@@ -9,5 +9,10 @@ namespace CardGame.Model
     class Market
     {
 
+        public List<Skin> Skins;
+        public void Buy()
+        {
+
+        }
     }
 }
