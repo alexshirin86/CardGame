@@ -11,7 +11,7 @@ namespace CardGame.Model
 
         public List<Skin> Skins;
         public List<Card> Cards;
-        private int Disscount;
+        private int disscount;
 
         public void Buy()
         {

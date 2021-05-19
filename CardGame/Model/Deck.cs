@@ -7,16 +7,16 @@ namespace CardGame
 {
     public class Deck
     {
-        private string[] Suits = { "diamond" , "spade", "club", "heart" };
-        private string[] Names = { "7", "8", "9", "10", "J", "Q", "K", "A" };
+        private string[] suits = { "diamond" , "spade", "club", "heart" };
+        private string[] names = { "7", "8", "9", "10", "J", "Q", "K", "A" };
 
         public List<Card> DeckCards { get; set; }
 
         public Deck()
         {
-            foreach (string suit in Suits)
+            foreach (string suit in suits)
             {
-                foreach (string name in Names)
+                foreach (string name in names)
                 {
                     DeckCards.Add(new Card(suit, name, 0));             
                 }
