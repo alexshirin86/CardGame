@@ -8,5 +8,6 @@ namespace CardGame.Model
 {
     class Market
     {
+
     }
 }
