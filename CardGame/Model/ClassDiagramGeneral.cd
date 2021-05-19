@@ -7,21 +7,21 @@
       <FileName>Model\Card.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="CardGame.Player" Collapsed="true">
+  <Class Name="CardGame.Player">
     <Position X="7.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAABIAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
       <FileName>Model\Player.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="CardGame.Room" Collapsed="true">
+  <Class Name="CardGame.Room">
     <Position X="4.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAACAAACAAGAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
       <FileName>Model\Room.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="CardGame.Deck" Collapsed="true">
+  <Class Name="CardGame.Deck">
     <Position X="1" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
@@ -35,7 +35,7 @@
       <FileName>Model\Skin.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="CardGame.Model.Market" Collapsed="true">
+  <Class Name="CardGame.Model.Market">
     <Position X="1" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
