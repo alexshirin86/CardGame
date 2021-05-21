@@ -3,15 +3,8 @@
   <Class Name="CardGame.Card">
     <Position X="4.25" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAABAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAgAAAgAAEAAACQAAAAAAAAAAAAAACAAAAA=</HashCode>
       <FileName>Model\Card.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="CardGame.Player">
-    <Position X="7.75" Y="3.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAABIAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
-      <FileName>Model\Player.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CardGame.Room">
@@ -24,7 +17,7 @@
   <Class Name="CardGame.Deck">
     <Position X="1" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <HashCode>AAAACBAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
       <FileName>Model\Deck.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -40,6 +33,13 @@
     <TypeIdentifier>
       <HashCode>AAIQAAAAAAAAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAA=</HashCode>
       <FileName>Model\Market.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame.Player">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Model\Player.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

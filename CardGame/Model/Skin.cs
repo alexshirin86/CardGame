@@ -8,5 +8,16 @@ namespace CardGame.Model
 {
     class Skin
     {
+        private int id;
+
+        public int Id {
+            get {
+                return id;
+            }
+            set {
+                id = value;
+            }
+        }
+
     }
 }

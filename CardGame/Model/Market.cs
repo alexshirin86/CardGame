@@ -10,7 +10,7 @@ namespace CardGame.Model
     {
 
         public List<Skin> Skins;
-        public List<Card> Cards;
+        public System.Collections.Generic.List<CardGame.Model.Card> Cards;
         private int disscount;
 
         public void Buy()
